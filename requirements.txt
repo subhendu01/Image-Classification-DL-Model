@@ -1,7 +1,6 @@
 flask-cors
 numpy
 flask
-tensorflow
 keras
 werkzeug
 gunicorn
