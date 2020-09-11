@@ -1,7 +1,7 @@
 flask-cors
 numpy
-sklearn
 flask
 tensorflow
 keras
+werkzeug
 gunicorn
